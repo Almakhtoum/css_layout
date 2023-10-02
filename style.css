@@ -1,0 +1,343 @@
+h1{
+    color: aquamarine;
+    font-weight: lighter;
+    font-family: initial;
+    text-align: center;
+    margin-top: 150px;
+}
+
+nav a{
+    text-decoration: none;
+    color: gray;
+    margin: 15px;
+    text-align: right;
+    align-items: center;
+}
+.ancre{
+    margin-left: 900px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 150px;
+}
+ a:hover{
+    color: aquamarine;
+}
+.About{
+    color: aquamarine;
+}
+.paragraphe{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    text-align: center ;
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 20px;
+}
+.image2{
+    width: 200px;
+    height: 400px;
+    align-items: center;
+}
+.paragraphe2{
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 5%;
+    font-size: 20px;
+    gap: 30px;
+    line-height: normal;
+}
+.style1{
+    background-color: #00ccb1;
+    height: 300px;
+    width: 30%;
+    padding: 3%;
+    border-radius: 10px;
+}
+.style2{
+    background-color: #3d83df;
+    height: 300px;
+    width: 30%;
+    padding: 3%;
+    border-radius: 10px;
+}
+.style3{
+    background-color: #1b2734;
+    height: 300px;
+    width: 30%;
+    padding: 3%;
+    border-radius: 10px;
+}
+.a1{ 
+    margin-top: 40%;
+    color: white;
+}
+.a2{
+    margin-top: 40%;
+    color: white;
+}
+.a3{
+    margin-top: 30%;
+    color: white;
+}
+.style5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+.nav:hover{
+    color: aquamarine;
+}
+.style6{
+    height:150px ;
+    width: 15%;
+    margin-top: 3%;
+    font-weight: 900;
+    font-size: 20px;
+}
+.sect a:hover {
+    color: aquamarine;
+}
+.sect a {
+    margin: 15px;
+    color: darkgray;
+    text-decoration: none;
+}
+#sect1,#sect2{
+    background-color:#e5faf8;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    height: 400px;
+    text-align: center;
+}
+#sect2{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 25px;
+
+}
+.para1{
+    width: 550px;
+    margin-top: 20px;
+    text-align: left;
+}
+.para2{
+    background-color: white;
+    height: 230px;
+    width: 10%;
+    padding: 50px;
+    margin: 13px;
+    margin-top: 80px;
+    
+}
+.para3{
+    background-color: white;
+    height: 230px;
+    width: 10%;
+    padding: 50px;
+    margin-top: 30px;
+}
+.para4{
+    background-color: white;
+    height: 230px;
+    width: 10%;
+    padding: 50px;
+    margin-left: 100px;
+    margin-top: 35px;
+}
+.taph{
+    margin-top: 65px;
+}
+.para5{
+    background-color: white;
+    height: 230px;
+    width: 10%;
+    padding: 50px;
+    margin-top: 1px;
+}
+.image1{
+    height: 150px;
+    width: 150px;
+}
+.par1,.par2,.par3,.par4,.par5{
+    font-size: 30px;
+}
+.par2{
+    font-size: 25px;
+}
+.sty-class1{
+    font-size: 30px;
+    margin-top: 100px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.sty-class2{
+    margin-left: 350px;
+    margin-right: 350px;
+}
+.sty-class3{
+    margin-top: 100px;
+}
+.ning {
+    width: 50px;
+    align-items: center;
+    margin-top: 10px;
+    
+}
+.ging {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ImgNav{
+    width: 250px;
+    margin-left: 30px;
+    text-align: left;
+    margin-top: 10px;
+}
+.ruban{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+}
+.sty1{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+.but1{
+    background-color: white;
+    display: inline-block; 
+    width: 312px;
+}
+.but2{
+    background-color: white;
+    display: inline-block; 
+    width: 312px;
+}
+.but3{
+    background-color: white;
+    display: inline-block; 
+    width: 312px;
+}
+.sty2{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+.butt1{
+    background-color: white;
+    display: inline-block; 
+    width: 312px;
+    
+}
+.butt2{
+    background-color: white;
+    display: inline-block; 
+    width: 312px;
+    
+}
+.butt3{
+    background-color: white;
+    display: inline-block; 
+    width: 312px;
+    
+}
+.sty3{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 40px;
+}
+.buttt1{
+    background-color: white;
+    display: inline-block; 
+    width: 312px;
+}
+.buttt2{
+    background-color: white;
+    display: inline-block; 
+    width: 312px;
+}
+.buttt3{
+    background-color: white;
+    display: inline-block; 
+    width: 312px; 
+}
+.over{
+    background-color: blue;
+    height: 35px;
+    font-size: 14px;
+    color: white;
+    margin-left: 25px;
+    margin-top: 15px;
+    border-radius: px;
+}
+.mex{
+    font-size: 20px;
+    color: black;
+    background: none;
+}
+.jul{
+    background: none;
+}
+.titre{
+    margin-top: 30px;
+}
+.avast{
+    text-align: center;
+    margin-top: 120PX;
+    background: none;
+}
+.avas{
+    font-size: 2.1428571429em;
+    margin-bottom: 15px;
+    
+}
+.color{
+    text-align: center;
+    margin-top: 120px;
+    font-size: 13px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.img1{
+    width: 25px;
+}
+.sel1{
+    margin-top: 80px;
+    background: #00ccb1;
+    color:white;
+    font-size: 20px;
+    border: none;
+}
+.sel2{
+    margin-top: 80px;
+    background: #3d83df;
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+.sel3{
+    margin-top: 40px;
+    background: #1b2734;
+    color: white;
+    font-size: 20px;
+    border: none;
+}

@@ -1,0 +1,25 @@
+    ALGORITHM sentences
+    VAR
+        phrase: STRING
+        nbr ,i , cpt, nbrVoyelles: INTEGER
+    BEGIN
+        write("je vais bien.");
+        read(phrase);
+        nbr == length(phrase);
+        write('nbr');
+        cpt = 0;
+        FOR i = 0; i<nbr; i++ DO
+        IF(phrase[i] == '' OR phrase[i] =='.') THEN
+        cpt = cpt+1
+        END_FOR
+        END_IF
+        write(cpt)
+        for i == 0; i<nbr; i++ DO
+        if(phrase[i] == 'a' or phrase[i] == 'e' or phrase[i] == 'i' or phrase[i] =='o' or phrase[i] == 'u' or phrase[i] ==
+        nbrVoyelles = nbrVoyelles+1) 
+        write(nbrVoyelles) 
+        END_FOR
+        END_IF 
+    END
+
+    
